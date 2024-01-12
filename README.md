@@ -5,3 +5,6 @@ This repository serves as a comprehensive collection of applied data mining meth
 
 ### 1) Association Rule Mining
 The objective of this personal project has been to understand and develop Association Rule Mining in R using the Arules library to generate a set of rules to see which item are more generally both together. 
+
+### 2) PCA and FastICA
+The objective of this personal project has been to understand and develop PCA and FastICA.
